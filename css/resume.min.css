@@ -49,14 +49,14 @@ h4
 }
 
 h6{
-  font-size: 1.25rem;
+  font-size: 1.75rem;
   font-weight: italic;
   font-color: #e80c0c;
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 p {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 500;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
@@ -76,7 +76,7 @@ p.lead {
 }
 
 .positonname {
-  font-size: 1.25rem;
+  font-size: 1.75rem;
   font-style: italic;
   font-color: #e80c0c;
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
