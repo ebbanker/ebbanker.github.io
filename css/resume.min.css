@@ -143,6 +143,14 @@ p.lead {
   }
 }
 
+#gitstats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 520px);
+    gap: 50px;
+    justify-content: space-between;
+    title_color: #68d388;
+}
+
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
