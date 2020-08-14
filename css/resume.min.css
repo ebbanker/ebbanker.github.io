@@ -76,10 +76,10 @@ p.lead {
 }
 
 .positonname {
-  font-size: .75rem;
-  font-weight: 500;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 1.25rem;
+  font-weight: bold;
   font-color: #e80c0c;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 .social-icons a {
