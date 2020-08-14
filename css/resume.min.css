@@ -48,6 +48,13 @@ h4
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
+h6{
+  font-size: 1.25rem;
+  font-weight: bold;
+  font-color: #e80c0c;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
 p {
   font-size: 1.25rem;
   font-weight: 500;
