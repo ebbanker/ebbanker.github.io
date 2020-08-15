@@ -122,7 +122,7 @@ p.lead {
 }
 
 /* Style buttons */
-#download a {
+.download a {
   font-size: 1.25rem;
   font-style: italic;
   font-color: #e80c0c;
