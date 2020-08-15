@@ -122,18 +122,13 @@ p.lead {
 }
 
 /* Style buttons */
-.download {
+.download a {
   background-color: DodgerBlue;
   border: none;
   color: white;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
-}
-
-/* Darker background on mouse-over */
-.download:hover {
-  background-color: RoyalBlue;
 }
 
 @media (min-width: 992px) {
