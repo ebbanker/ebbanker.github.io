@@ -122,7 +122,7 @@ p.lead {
 }
 
 /* Style buttons */
-#download {
+.download {
   background-color: DodgerBlue;
   border: none;
   color: white;
@@ -132,7 +132,7 @@ p.lead {
 }
 
 /* Darker background on mouse-over */
-#download:hover {
+.download:hover {
   background-color: RoyalBlue;
 }
 
