@@ -127,6 +127,8 @@ p.lead {
   font-style: italic;
   font-color: #e80c0c;
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  background-color: white;
+  border: 2px solid #4CAF50; /* Green */
 }
 
 @media (min-width: 992px) {
